@@ -1,0 +1,43 @@
+.row{
+
+  display: flex;
+  max-width: 200px;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.col{
+  background-color: #b5c0be;
+  min-width:50px ;
+  flex-wrap: wrap;
+  font-size: 50px;
+  opacity: 3px;
+}
